@@ -10,7 +10,7 @@
 
 ![App Screenshot](screenshot.png) <!-- You can add your actual screenshot file here -->
 
----
+--- 
 
 ## 🧩 Features
 
